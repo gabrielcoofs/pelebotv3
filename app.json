@@ -1,0 +1,7 @@
+{
+  "name": "Cofs-Bot",
+  "description": "WhatsApp Bot Using WhatsApp Api Library Created By Cofs",
+  "repository": "https://github.com/gabrielcoofs/cofsbot",
+  "logo": "https://github.com/gabrielcoofs/cofsbot/blob/master/configuracoes/cofs.gif",
+  "keywords": ["Cofs", "Bot WhatsApp","Heroku bot"]
+}
